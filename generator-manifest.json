@@ -1,0 +1,18 @@
+{
+  "branch": "main",
+  "depends_recipe": "",
+  "description_control": "vfd controller",
+  "description_recipe": "vfd controller",
+  "history_source_dir": "F3LEDControl",
+  "internal_package_name": "enigma2-plugin-systemplugins-vfdcontrol",
+  "module_dir_name": "F3LEDControl",
+  "output_subdir": "F3LEDControl",
+  "package_name": "enigma2-plugin-systemplugins-vfdcontrol-f3-l-e-d-control",
+  "plugin_src_rel": "F3LEDControl",
+  "python_package": "F3LEDControl",
+  "rdepends_recipe": "",
+  "replaces": "",
+  "repo_name": "F3LEDControl",
+  "rrecommends": "",
+  "rreplaces": ""
+}
