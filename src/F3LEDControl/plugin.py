@@ -17,11 +17,9 @@ from time import localtime, time
 try:
 	from Components.SystemInfo import BoxInfo
 	IMAGEDISTRO = BoxInfo.getItem("distro")
-except:
+except ImportError:
 	from boxbranding import getImageDistro
 	IMAGEDISTRO = getImageDistro()
-
-import Screens.Standby
 
 config.plugins.SEG = ConfigSubsection()
 config.plugins.SEG.showClock = ConfigSelection(default="True_Switch", choices=[("False", _("Channelnumber in Standby off")), ("True", _("Channelnumber in Standby Clock")), ("True_Switch", _("Channelnumber/Clock in Standby Clock")), ("True_All", _("Clock always")), ("Off", _("Always off"))])
