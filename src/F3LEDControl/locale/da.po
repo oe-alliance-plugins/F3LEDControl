@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:54+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2016-05-07 13:15+0200\n"
 "Last-Translator: neoatomic <neoatomic@users.noreply.github.com>\n"
 "Language-Team: None <tbt_dk@hotmail.com>\n"
@@ -15,55 +15,72 @@ msgstr ""
 "X-Generator: Poedit 1.8.7\n"
 "X-Poedit-SourceCharset: iso-8859-15\n"
 
+#: ../plugin.py:26
 msgid "15 sec"
 msgstr ""
 
+#: ../plugin.py:26
 msgid "30 sec"
 msgstr ""
 
+#: ../plugin.py:26
 msgid "45 sec"
 msgstr ""
 
+#: ../plugin.py:26
 msgid "60 sec"
 msgstr ""
 
+#: ../plugin.py:25
 msgid "Always off"
 msgstr ""
 
 #
+#: ../plugin.py:204
 msgid "Cancel"
 msgstr "Fortryd"
 
+#: ../plugin.py:324
 msgid "Change LED display settings"
 msgstr ""
 
+#: ../plugin.py:25
 msgid "Channelnumber in Standby Clock"
 msgstr ""
 
+#: ../plugin.py:25
 msgid "Channelnumber in Standby off"
 msgstr ""
 
+#: ../plugin.py:25
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr ""
 
+#: ../plugin.py:25
 msgid "Clock always"
 msgstr ""
 
+#: ../plugin.py:194 ../plugin.py:280 ../plugin.py:287
 msgid "LED Display Setup"
 msgstr ""
 
 #
+#: ../plugin.py:205
 msgid "Save"
 msgstr "Gem"
 
+#: ../plugin.py:219 ../plugin.py:233
 msgid "Show on LED"
 msgstr ""
 
+#: ../plugin.py:222
 msgid "Time mode"
 msgstr ""
 
+#: ../plugin.py:220
 msgid "Time to show Clock in Display"
 msgstr ""
 
+#: ../plugin.py:206
 msgid "Update Date/Time"
 msgstr ""

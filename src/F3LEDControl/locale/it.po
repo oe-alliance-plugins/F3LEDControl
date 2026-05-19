@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: enigma2\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-11-03 07:54+0100\n"
+"POT-Creation-Date: 2026-04-08 10:12+0200\n"
 "PO-Revision-Date: 2022-11-04 08:40+0100\n"
 "Last-Translator: Massimo Pissarello <mapi68@gmail.com>\n"
 "Language-Team: Italian <>\n"
@@ -17,55 +17,72 @@ msgstr ""
 "X-Generator: Lokalize 22.08.2\n"
 "X-Poedit-SourceCharset: iso-8859-1\n"
 
+#: ../plugin.py:26
 msgid "15 sec"
 msgstr "15 sec"
 
+#: ../plugin.py:26
 msgid "30 sec"
 msgstr "30 sec"
 
+#: ../plugin.py:26
 msgid "45 sec"
 msgstr "45 sec"
 
+#: ../plugin.py:26
 msgid "60 sec"
 msgstr "60 sec"
 
+#: ../plugin.py:25
 msgid "Always off"
 msgstr "Sempre spento"
 
 #
+#: ../plugin.py:204
 msgid "Cancel"
 msgstr "Annulla"
 
+#: ../plugin.py:324
 msgid "Change LED display settings"
 msgstr "Modifica impostazioni del display a LED"
 
+#: ../plugin.py:25
 msgid "Channelnumber in Standby Clock"
 msgstr "Numero canale in standby orologio"
 
+#: ../plugin.py:25
 msgid "Channelnumber in Standby off"
 msgstr "Numero canale in standby disattivato"
 
+#: ../plugin.py:25
 msgid "Channelnumber/Clock in Standby Clock"
 msgstr "Numero canale/Orologio in standby orologio"
 
+#: ../plugin.py:25
 msgid "Clock always"
 msgstr "Orologio sempre"
 
+#: ../plugin.py:194 ../plugin.py:280 ../plugin.py:287
 msgid "LED Display Setup"
 msgstr "Configurazione display a LED"
 
 #
+#: ../plugin.py:205
 msgid "Save"
 msgstr "Salva"
 
+#: ../plugin.py:219 ../plugin.py:233
 msgid "Show on LED"
 msgstr "Mostra sul LED"
 
+#: ../plugin.py:222
 msgid "Time mode"
 msgstr "Modalità orario"
 
+#: ../plugin.py:220
 msgid "Time to show Clock in Display"
 msgstr "È ora di visualizzare l'orologio sul display"
 
+#: ../plugin.py:206
 msgid "Update Date/Time"
 msgstr "Aggiorna data/ora"
